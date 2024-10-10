@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b5ee030.css",
+    "main.js": "/static/js/main.e8cf2cc9.js",
+    "static/media/hero-image-01.jpg": "/static/media/hero-image-01.87a34234ae73f96b79d4.jpg",
+    "static/media/features.png": "/static/media/features.0b7917b1da8f697f9479.png",
+    "static/media/workflow-03.png": "/static/media/workflow-03.1db72d0bf04de19c7465.png",
+    "static/media/workflow-01.png": "/static/media/workflow-01.dfb46b6c02f504b61fec.png",
+    "static/media/workflow-02.png": "/static/media/workflow-02.f03680cd2c2d68069754.png",
+    "static/media/QuickAI-Image.png": "/static/media/QuickAI-Image.0568f8310675972c10a1.png",
+    "static/media/user.png": "/static/media/user.0d14c6999b4a5c8e86a7.png",
+    "static/media/footer-illustration.svg": "/static/media/footer-illustration.1eb958356917007647685af41be1134a.svg",
+    "static/media/client-logo-01.svg": "/static/media/client-logo-01.122283e0177f0d6682411344bea171a1.svg",
+    "static/media/client-logo-05.svg": "/static/media/client-logo-05.78eb841c04d010742961873c5e016427.svg",
+    "static/media/client-logo-09.svg": "/static/media/client-logo-09.3dae0b4fcb386a35110f7304c07c70fa.svg",
+    "static/media/client-logo-02.svg": "/static/media/client-logo-02.638aaabcbe9bbeb8e0d617c0edc7f3ca.svg",
+    "static/media/client-logo-07.svg": "/static/media/client-logo-07.a1917f5c5de71ca461374103fda6b05b.svg",
+    "static/media/client-logo-08.svg": "/static/media/client-logo-08.59329f4599bcb2ec746c07b3e1af586c.svg",
+    "static/media/client-logo-04.svg": "/static/media/client-logo-04.bd87c4232be1bd3a7ba48637c6351b49.svg",
+    "static/media/client-logo-03.svg": "/static/media/client-logo-03.27c4b932121fea565389c248f7e14fb5.svg",
+    "static/media/client-logo-06.svg": "/static/media/client-logo-06.f3fbd9b4908cf59fec70f9f1d6a6b8b2.svg",
+    "static/media/logo.svg": "/static/media/logo.17cec1473241ab64cf20e85a2b3502f9.svg",
+    "static/media/blurred-shape-gray.svg": "/static/media/blurred-shape-gray.5ed40b5d92ed5e179ec6eac4406ff0b6.svg",
+    "static/media/blurred-shape.svg": "/static/media/blurred-shape.9d1921608d3b4450f8713a111c8551f3.svg",
+    "index.html": "/index.html",
+    "static/media/user-solid.svg": "/static/media/user-solid.3c3ce3f89bb64e810ca13708310f5d79.svg",
+    "main.6b5ee030.css.map": "/static/css/main.6b5ee030.css.map",
+    "main.e8cf2cc9.js.map": "/static/js/main.e8cf2cc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b5ee030.css",
+    "static/js/main.e8cf2cc9.js"
+  ]
+}
