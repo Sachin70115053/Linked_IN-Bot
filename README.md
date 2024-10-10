@@ -55,7 +55,7 @@ This project is an **Automated LinkedIn Profile Management Tool** that helps use
 
 ## 📧 Contact
 For suggestions or queries, feel free to reach out to:
-- **Email:** [your.email@example.com](sachinyadavsky70115053@gmail.com)
+- **Email:** [(sachinyadavsky70115053@gmail.com)]
 
 
 ---
